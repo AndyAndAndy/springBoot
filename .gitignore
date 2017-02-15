@@ -4,5 +4,3 @@
 .settings/
 target/
 log/
-pom.xml
-src/main/resources/orm-config.properties
